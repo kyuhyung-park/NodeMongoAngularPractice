@@ -21,3 +21,5 @@ console.log("Last: " + obj.last);
 
 var os = require('os');
 console.log("Platform:"+ os.platform());
+
+console.log("OK..");
